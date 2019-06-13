@@ -1,0 +1,127 @@
+
+    /* Mobile */
+    @media (max-width: 768px){
+
+        .globalPage {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            box-sizing: border-box;
+            z-index: 0;
+        }
+        .HeaderMsg {
+            display: flex;
+            flex-direction: row;
+        }
+
+        .LogoMsg {
+            display: none;       
+        }
+
+        .MainMenu {
+            grid-area: MainMenu;
+            display: grid;
+            grid-template-areas: "msgMainContainer";
+        }
+        .msgMainContainer{
+            grid-area: msgMainContainer;
+            display: grid;
+            grid-template-columns: 99vw;
+            grid-template-rows: 65vh 12vh;
+            grid-template-areas: "messageContainer"
+                                "inputMessage";
+        } 
+
+
+
+        .messageContainer {
+            display: flex; 
+            flex-direction: column;
+            width: auto;
+        }
+    
+            .BodyMsg {
+
+            }
+    
+            .SideMenu {
+                display: none;
+            }
+    
+            /* NavBar */
+            #toolbar { 
+                    display: block;
+                    z-index: 0;
+            }
+    
+            .AsideMsg {
+                grid-area: AsideMsg;    
+            }
+    }
+            
+
+
+
+    /* Desktop */
+        @media (min-width: 769px){
+
+            .globalPage {
+                display: grid;
+                grid-template-columns: 89vw 10vw;
+                grid-template-rows: 17vh 82vh;
+                grid-template-areas: "HeaderMsg LogoMsg"
+                                    "BodyMsg AsideMsg";
+                box-sizing: border-box;
+            }
+            
+            .HeaderMsg {
+                grid-area: HeaderMsg;
+                
+            }
+
+            .MainMenu {
+                grid-area: MainMenu;
+                display: grid;
+                grid-template-areas: "msgMainContainer";
+            }
+
+            .msgMainContainer{
+                grid-area: msgMainContainer;
+                display: grid;
+                grid-template-columns: 69vw;
+                grid-template-rows: 65vh 12vh;
+                grid-template-areas: "messageContainer"
+                                    "inputMessage";
+            } 
+            
+            .LogoMsg {
+                grid-area: LogoMsg;
+                
+            
+            }
+
+            
+            .BodyMsg {
+                grid-area: BodyMsg;
+                display: grid;
+                grid-template-columns: 20vw 69vw;
+                grid-template-rows: 89vh;
+                grid-template-areas: "SideMenu MainMenu"
+                
+            }
+
+            .SideMenu {
+                grid-area: SideMenu;
+            }
+        
+        
+            #toolbar { 
+                display: none;
+        }
+
+            .AsideMsg {
+                grid-area: AsideMsg;
+                
+            
+            }
+        }

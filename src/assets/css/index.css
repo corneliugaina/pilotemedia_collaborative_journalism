@@ -1,0 +1,101 @@
+body{
+    display: grid;
+    position: static;
+    grid-template-columns: 1fr;
+    grid-template-rows: 10vh auto;
+    grid-template-areas: "header pageBody";
+    margin: 0;
+    padding: 0;
+    
+}
+
+.header {
+    grid-area: header;
+    height: 10vh;
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+    padding: 0;
+}
+
+.pageBody {
+    grid-area: pageBody;
+    height: 88vh;
+    display: grid;
+    box-sizing: border-box;
+    grid-template-columns: 84vw 15vw;
+    grid-template-rows: 68vh 20vh;
+    grid-template-areas:    "thematiqueBody asideTop"
+                            "socialMedia asideDown";
+    background-color:white;
+    position: static;
+}
+
+.thematiqueBody {
+    grid-area: thematiqueBody; 
+}
+
+.asideTop {
+    grid-area: asideTop asideDown;
+}
+
+.socialMedia {
+    grid-area: socialMedia;
+}
+
+.asideDown {
+    grid-area: asideDown ;
+}
+
+/* Quand c'est en desktop */
+@media(min-width: 769px){
+    body{
+        height: 100%;
+    }
+    .mobile {
+        display: none;
+    }
+    .desktop {
+        display: flex;
+        justify-content: left;
+        align-items: center;
+    }
+    .pageBody {
+        background-color:white;
+        width: 100%;
+        }
+
+}
+
+
+
+/* Quand c'est en mobile */
+@media(max-width: 768px) { 
+    .desktop {
+        display: none;
+    }
+
+    .pageBody {
+        grid-template-columns: 99vw 0vw;
+
+    }
+
+
+    /*faire re aparaitre en haut centre pour la vesion mobile*/
+    .aside {
+        display: none;
+        grid-area: asideTop asideDown;
+        
+
+    }
+
+    .socialMedia {
+        background-color: brown;
+    }
+
+    .pageBody {
+        background-color:white;
+        width: 100%;
+        overflow-x: hidden;
+        }
+}
