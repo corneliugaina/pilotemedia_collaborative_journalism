@@ -8,7 +8,7 @@ import { BrowserRouter as Router} from "react-router-dom";
 import routes from "./utils/router/routes"
 
 const initRoutes = () => (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
         <div>
             {routes}
         </div>

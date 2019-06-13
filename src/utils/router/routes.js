@@ -9,10 +9,10 @@ import PageMsg from "../../components/pages/PageMsg";
 
 const routes = (
     <Switch>
-        <Route path="/" exact component={Reportages} />
-        <Route path="/presentation" component={Presentation} />
-        <Route path="/financement" component={Financement} />
-        <Route path="/pagemsg" component={PageMsg} />
+        <Route path={`/`} exact component={Reportages} />
+        <Route path={`/presentation`} component={Presentation} />
+        <Route path={`/financement`} component={Financement} />
+        <Route path={`/pagemsg`} component={PageMsg} />
     </Switch>
 );
 
