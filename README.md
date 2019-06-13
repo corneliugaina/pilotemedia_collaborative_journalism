@@ -1,5 +1,5 @@
 # PiloteMedia-Boeing :airplane:
-https://becodeorg.github.io/PiloteMedia-Boeing/
+https://corneliushka.github.io/pilotemedia_collaborative_journalism/
 
 ## Table of content :books:
 
@@ -65,7 +65,7 @@ $ npm run dev
   Friday 03/05:  
 
 ## Team 🔌
-| AMAN Djedou Arnaud | BAQUET Mathilde  | GAINA Corneliu | GOLDESTEIN Andrès |
+| AMAN Djedou Arnaud (Tech Lead) | BAQUET Mathilde (Developer/SCRUM master)  | GAINA Corneliu (Developer/Product Owner) | GOLDESTEIN Andrès (Design Lead) |
 | :---: |:---:| :---:| :---:|
 |<img src="https://avatars0.githubusercontent.com/u/46488203?s=400&v=4" width="300" />|<img src="https://avatars2.githubusercontent.com/u/46483828?s=400&u=66a582c90b3584cf4d9b6a6ed96b2037f927e59f&v=4" width="300" />| <img src="https://avatars3.githubusercontent.com/u/39053043?s=400&v=4" width="300" />|  <img src="https://avatars1.githubusercontent.com/u/46483156?s=400&v=4" width="300" />|
 | <a href="https://github.com/djedou" target="_blank">`github.com/djedou`</a> | <a href="https://github.com/MathildeBa" target="_blank">`github.com/MathildeBa`</a>  | <a href="https://github.com/corneliushka" target="_blank">`github.com/corneliushka`</a> | <a href="https://github.com/AndresGol" target="_blank">`github.com/AndresGol`</a> |
