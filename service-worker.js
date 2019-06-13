@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.0/workbox-sw.js");
 
 importScripts(
-  "/pilotemedia_collaborative_journalism/precache-manifest.771fd23ebf7147daa196344ae76dccad.js"
+  "/pilotemedia_collaborative_journalism/precache-manifest.88f15b63d3279fdf097b163c9654e306.js"
 );
 
 self.addEventListener('message', (event) => {

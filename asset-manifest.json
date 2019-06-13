@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/pilotemedia_collaborative_journalism/static/css/main.d7ee812e.chunk.css",
-    "main.js": "/pilotemedia_collaborative_journalism/static/js/main.28e03a81.chunk.js",
-    "main.js.map": "/pilotemedia_collaborative_journalism/static/js/main.28e03a81.chunk.js.map",
+    "main.js": "/pilotemedia_collaborative_journalism/static/js/main.2b0199a4.chunk.js",
+    "main.js.map": "/pilotemedia_collaborative_journalism/static/js/main.2b0199a4.chunk.js.map",
     "runtime~main.js": "/pilotemedia_collaborative_journalism/static/js/runtime~main.c03101e7.js",
     "runtime~main.js.map": "/pilotemedia_collaborative_journalism/static/js/runtime~main.c03101e7.js.map",
     "static/js/2.af490cf8.chunk.js": "/pilotemedia_collaborative_journalism/static/js/2.af490cf8.chunk.js",
     "static/js/2.af490cf8.chunk.js.map": "/pilotemedia_collaborative_journalism/static/js/2.af490cf8.chunk.js.map",
     "index.html": "/pilotemedia_collaborative_journalism/index.html",
-    "precache-manifest.771fd23ebf7147daa196344ae76dccad.js": "/pilotemedia_collaborative_journalism/precache-manifest.771fd23ebf7147daa196344ae76dccad.js",
+    "precache-manifest.88f15b63d3279fdf097b163c9654e306.js": "/pilotemedia_collaborative_journalism/precache-manifest.88f15b63d3279fdf097b163c9654e306.js",
     "service-worker.js": "/pilotemedia_collaborative_journalism/service-worker.js",
     "static/css/main.d7ee812e.chunk.css.map": "/pilotemedia_collaborative_journalism/static/css/main.d7ee812e.chunk.css.map"
   }
