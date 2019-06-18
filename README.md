@@ -1,5 +1,6 @@
 # PiloteMedia-Boeing :airplane:
-https://corneliushka.github.io/pilotemedia_collaborative_journalism/
+https://corneliushka.github.io/pilotemedia_collaborative_journalism/ (landing page)
+https://corneliushka.github.io/pilotemedia_collaborative_journalism/pagemsg (collaborative tool for the report)
 
 
 ## Contexte
@@ -23,9 +24,9 @@ $ npm run dev
 
 ## Built With
 - Photoshop
-- React.js ( Next.js, Redux.js ) The JavaScript library used
-- Material UI ( withStyle.js ) The framework JavaScript.
-- Firebase
+- React.js - The JavaScript library used ( Next.js, Redux.js were used at first but abandoned because the complexity & unnecessity of tools at this point, it's just a prototype) 
+- Material UI ( withStyle.js )- The UI framework for React
+- Firebase (finally not used at this point)
 
 ## Organisation 📆
 
@@ -42,16 +43,9 @@ $ npm run dev
   * finishing mock-up design
   * finishing landing page skeleton  
   
-  Thursday 25/04:   
-  Friday 26/04:  
-    
-    
-**_Third week:_**   
-  Monday 29/04 
-  Tuesday 30/04:  
-  Friday 01/05:  
-  Thursday 02/05:  
-  Friday 03/05:  
+  Thursday 25/04: set of the states for the messagery app
+  Friday 26/04: "" 
+
 
 ## Team 🔌
 | AMAN Djedou Arnaud (Tech Lead) | BAQUET Mathilde (Developer/SCRUM master)  | GAINA Corneliu (Developer/Product Owner) | GOLDESTEIN Andrès (Design Lead) |
