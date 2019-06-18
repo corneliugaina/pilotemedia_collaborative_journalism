@@ -1,16 +1,6 @@
 # PiloteMedia-Boeing :airplane:
 https://corneliushka.github.io/pilotemedia_collaborative_journalism/
 
-## Table of content :books:
-
-- [Context]
-- [Objectif]
-- [About project](#about)
-- [Installation](#installation)
-- [Built With](#built)
-- [Organisation ](#organisation)
-- [Team](#team)
-
 
 ## Contexte
 After 3 months starting developing at [BeCode](https://www.becode.org/) 4 of us start a client project with a learner from [Pilote Media](https://www.pilote.media/). 
