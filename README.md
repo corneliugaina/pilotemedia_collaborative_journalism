@@ -3,13 +3,13 @@ https://corneliushka.github.io/pilotemedia_collaborative_journalism/
 
 ## Table of content :books:
 
-- [Context](#Context)
-- [Objectif](#Objectif)
-- [About project](#About)
-- [Installation](#Installation)
-- [Built With](#Built)
-- [Organisation ](#Organisation)
-- [Team](#Team)
+- [Context]
+- [Objectif]
+- [About project](#about)
+- [Installation](#installation)
+- [Built With](#built)
+- [Organisation ](#organisation)
+- [Team](#team)
 
 
 ## Contexte
