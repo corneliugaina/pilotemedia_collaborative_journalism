@@ -5,12 +5,11 @@ https://corneliushka.github.io/pilotemedia_collaborative_journalism/
 
 - [Context](#Context)
 - [Objectif](#Objectif)
-- [About ptoject](#About)
+- [About project](#About)
 - [Installation](#Installation)
 - [Built With](#Built)
-- [Organisation ](#)
+- [Organisation ](#Organisation)
 - [Team](#Team)
-- [](#)
 
 
 ## Contexte
